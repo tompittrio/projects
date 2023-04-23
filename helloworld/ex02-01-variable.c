@@ -42,10 +42,12 @@ int number6 = 6;
 int num_ber = 10;
 int number = 15;
 
-/* 사용 불가한 변수명들 */
-
+// /* 사용 불가한 변수명들 */
+// int hello boy = 3; // 공백포함이라 안됨
+// int hi#$ = 5; // 특수기호 사용
+// int 8numer = 8; // 숫자로 시작
+// int short = 3; // 기능이 있는 키워드
 
     return 0;
 
 }
-
